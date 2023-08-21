@@ -1,4 +1,5 @@
-
+// ignore this script, its for practice purposes
+  
   // const getWhale = () => {
   //   fetch('https://cat-fact.herokuapp.com/facts/random')
   // .then(response => response.json())
